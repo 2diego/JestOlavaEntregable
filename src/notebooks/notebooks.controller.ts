@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 // notebooks.controller.ts
 import {
   Controller,
